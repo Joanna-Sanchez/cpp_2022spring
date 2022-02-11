@@ -6,8 +6,7 @@ Purpose: Evaluate the total tax of a given purchase.
 using namespace std;
 
 int main() {
-    // insert code here...
-    cout << "Hello, World!\n";
+  
     
     // Initialize  a double variable to hold the Purchase price with the value 95
     double purchasePrice = 95.0;
