@@ -1,10 +1,7 @@
-//
-//  main.cpp
-//  test
-//
-//  Created by Joanna Sanchez on 2/10/22.
-//
-
+/*
+Author: Joanna Sanchez
+Purpose: Evaluate the total tax of a given purchase.
+*/
 #include <iostream>
 using namespace std;
 
